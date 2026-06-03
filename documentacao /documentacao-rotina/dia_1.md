@@ -72,7 +72,7 @@ Uma sala organizada comunica:
 
 ---
 
-## 2.5 Observação de Mecanismos — Equipe Boeing 25 (Born to Fight)
+## 2.5 Observação de Mecanismos — Equipe (Born to Fight)
 
 O momento de maior densidade técnica do dia foi o contato com mecanismos desenvolvidos pela equipe **Boeing 25, conhecida como Born to Fight**, também do SESI Anandeua. Essa equipe representa um benchmark regional relevante e transmitiu princípios que devem orientar o design da Garça de Botas desde o início.
 
