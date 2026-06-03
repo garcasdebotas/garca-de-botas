@@ -82,7 +82,7 @@ O momento de maior densidade técnica do dia foi o contato com mecanismos desenv
 
 ## 3.1 Os Três Pilares Transmitidos
 
-A equipe Boeing 25 condensou sua experiência em três diretrizes fundamentais. Elas não são opiniões — são **princípios de engenharia competitiva validados na prática**.
+A equipe Born to Fight condensou sua experiência em três diretrizes fundamentais. Elas não são opiniões — são **princípios de engenharia competitiva validados na prática**.
 
 ---
 
