@@ -2,8 +2,8 @@
 **Equipe:** Garca de Botas  
 **Categoria:** FIRST LEGO League Challenge  
 **Temporada:** BIOGLOW — Founders Edition  
-**Local:** Nandil  
-**Data:** 29 de maio de 2026  
+**Local:** Sesi Ananindeua
+**Data:** 14 de maio de 2026  
 **Status do documento:** Versao 1.0 — Oficial  
 
 ---
