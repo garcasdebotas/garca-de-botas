@@ -286,4 +286,4 @@ Imagem de detalhe mostrando um modelo de robo interagindo com um elemento de mis
 
 *Documento produzido pela equipe Garca de Botas como parte do registro oficial da temporada BIOGLOW.*  
 *Formato padrao para todos os relatorios subsequentes de treino.*  
-*Versao 1.0 — Segundo treino da temporada — 29 de maio de 2026.*
+*Versao 1.0 — Segundo treino da temporada — 14 de maio de 2026.*
