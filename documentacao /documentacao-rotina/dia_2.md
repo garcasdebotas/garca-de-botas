@@ -284,6 +284,10 @@ Imagem de detalhe mostrando um modelo de robo interagindo com um elemento de mis
 
 ---
 
+<img width="1177" height="644" alt="Captura de tela 2026-05-29 192403" src="https://github.com/user-attachments/assets/f0f4e1d9-f04a-4063-99cc-3a160e2da101" />
+
+<img width="1919" height="1079" alt="Captura de tela 2026-05-29 192316" src="https://github.com/user-attachments/assets/45192799-e76a-4cd2-aa01-5cf15c678b23" />
+
 *Documento produzido pela equipe Garca de Botas como parte do registro oficial da temporada BIOGLOW.*  
 *Formato padrao para todos os relatorios subsequentes de treino.*  
 *Versao 1.0 — Segundo treino da temporada — 14 de maio de 2026.*
