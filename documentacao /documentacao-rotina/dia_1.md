@@ -382,6 +382,8 @@ Documentacao            INICIADA hoje      Manter padrao sistematico
 ```
 
 ---
+<img width="720" height="1280" alt="WhatsApp Image 2026-06-02 at 20 59 44" src="https://github.com/user-attachments/assets/d5a6ba4e-76d0-44c0-8b92-45d8592d766e" />
+
 
 *Registro elaborado com base na sessão do Dia 1.*
 *Tecnico Responsavel — Programa Garça de Botas / SESI Anandeua*
