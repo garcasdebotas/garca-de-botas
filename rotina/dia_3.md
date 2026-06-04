@@ -1,5 +1,5 @@
 #  GARÇA DE BOTAS — DIÁRIO TÉCNICO DE TREINO
-## Sessão #03 | FLL Challenge 2025 | Ananindeua
+## Sessão #03 | FLL Challenge 2026 | Ananindeua
 
 ---
 
