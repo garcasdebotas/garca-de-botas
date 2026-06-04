@@ -761,44 +761,7 @@ Este registro é importante para a **apresentação de Design** aos juízes da F
 
 ---
 
-## 15. Próximos Passos Prioritários
-
-### Semana 1 após Treino 03
-
-**Hardware:**
-- [ ] Montar o robô V2 fisicamente seguindo o manual
-- [ ] Testar dimensões reais vs. CAD
-- [ ] Verificar folgas e ajustar peças problemáticas
-- [ ] Organizar roteamento de cabos
-
-**Programação:**
-- [ ] Transferir código para o hub real
-- [ ] Calibrar PID para o robô físico (iniciar com Kp=1.2, Kd=0.5)
-- [ ] Testar GyroMove para 30cm — medir desvio real
-- [ ] Ajustar parâmetros até desvio < 1cm em 30cm
-
-**Anexo:**
-- [ ] Montar o Anexo V1 físico
-- [ ] Testar encaixe no robô real
-- [ ] Documentar problemas de rigidez encontrados
-- [ ] Iniciar projeto do padrão próprio de encaixe (QRAS)
-
-### Semana 2 após Treino 03
-
-**Integração:**
-- [ ] Testar Saída 1 completa no tabuleiro real
-- [ ] Medir taxa de sucesso em 10 repetições
-- [ ] Ajustar `distancia_cm` e `angulo_garra` com base em dados reais
-- [ ] Documentar parâmetros finais
-
-**Planejamento:**
-- [ ] Mapear as próximas 3-4 missões prioritárias
-- [ ] Definir ordem de desenvolvimento das saídas
-- [ ] Avaliar se o V2 precisa de redesign após testes
-
----
-
-## 16. Glossário Técnico
+## 15. Glossário Técnico
 
 | Termo | Definição |
 |-------|-----------|
