@@ -1,17 +1,23 @@
 from pybricks.tools import wait
 
-KP_STRAIGHT = 1.8   
-KP_TURN     = 3.2   
+KP_STRAIGHT = 1.8  #correção de ângulos para frente
+KP_TURN     = 3.2  # correção de ângulos para curvas
 
-def gyroMove(gb, hub, distancia, velocidade=300):
-
-    gb.reset()
+def gyroMove(gb, hub, distancia, velocidade = 300): # velocidade 300 como padrão, parâmetros do robô:
+    """
+    gb = DriveBase: motores e sensores
+    hub = giroscópio
+    distância = variavel do .strenght (distância = em milímetros)
+    velocidade = tempo que algo leva para ir de um ponto A até B
+    """
+    gb.reset() # reset nos sensores e nos motores.
     
-    alvo    = hub.imu.heading() # grava o heading no momento do reset
+    alvo = hub.imu.heading() # grava o heading no momento do reset
     
     direcao = 1 if distancia > 0 else -1 # +1 = frente, -1 = ré
 
 
+    # correção contante com o while:
     while abs(gb.distance()) < abs(distancia):
         erro = alvo - hub.imu.heading() # desvio em graus
 
@@ -28,7 +34,7 @@ def gyroMove(gb, hub, distancia, velocidade=300):
         
         correcao = erro * KP_STRAIGHT
         
-        gb.drive(v * direcao, correcao)
+        gb.drive(desaceleracao_gradual, * direcao, correcao)
         
         wait(10)
 
