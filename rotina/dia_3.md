@@ -92,7 +92,11 @@ O terceiro treino foi o mais produtivo até o momento. Em uma única sessão, a 
 6. Identificou a necessidade de um padrão próprio de anexos
 
 ---
+### Imagens do CAD V1_robô:
 
+<img width="827" height="574" alt="Captura de tela 2026-05-25 233835" src="https://github.com/user-attachments/assets/20f9a157-77a7-4812-a2ae-78a7bc50b9f3" />
+
+---
 ## 3. Decisão Crítica: Abandono da Base Motriz LEGO Padrão
 
 ### O que aconteceu
