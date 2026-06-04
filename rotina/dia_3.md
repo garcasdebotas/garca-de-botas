@@ -1,4 +1,4 @@
-# 🦢 GARÇA DE BOTAS — DIÁRIO TÉCNICO DE TREINO
+#  GARÇA DE BOTAS — DIÁRIO TÉCNICO DE TREINO
 ## Sessão #03 | FLL Challenge 2025 | Ananindeua
 
 ---
@@ -8,11 +8,11 @@
 > **Categoria:** FIRST LEGO League (FLL) Challenge  
 > **Localidade:** Nandil  
 > **Responsável Técnico:** Equipe Garça de Botas  
-> **Status:** ✅ Concluído  
+> **Status:** Concluído  
 
 ---
 
-## 📋 ÍNDICE
+## ÍNDICE
 
 1. [Contexto Geral da Sessão](#1-contexto-geral-da-sessão)
 2. [Linha do Tempo dos Treinos Anteriores](#2-linha-do-tempo-dos-treinos-anteriores)
