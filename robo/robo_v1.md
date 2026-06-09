@@ -26,10 +26,18 @@ O Robô V1 é a primeira iteração física da equipe Garça de Botas para a tem
 | Tipo de tração | Diferencial com rodas de grande diâmetro |
 
 ---
+## Imagens do Projeto em desenvolvimento:
 
-## Imagens do Projeto CAD
+<img width="1919" height="822" alt="Captura de tela 2026-05-24 200531" src="https://github.com/user-attachments/assets/bfd7ad50-6d77-43a2-9260-c51b2f0a09ed" />
+
+
+## Imagens do Projeto CAD finalizado:
 
 <img width="697" height="623" alt="Captura de tela 2026-05-25 233814" src="https://github.com/user-attachments/assets/4d0e389a-31ee-49c7-9375-997ef1c326df" />
+
+## Possbilidade de estrutura daquele momento: 
+
+<img width="933" height="563" alt="Captura de tela 2026-05-21 231622" src="https://github.com/user-attachments/assets/7b928325-1d07-4bf6-8279-8eef0e66ca05" />
 
 
 *Vista lateral: posicionamento dos motores grandes e rodas de tração.*
