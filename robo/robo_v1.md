@@ -29,19 +29,22 @@ O Robô V1 é a primeira iteração física da equipe Garça de Botas para a tem
 
 ## Imagens do Projeto CAD
 
-![Vista lateral direita do Robô V1](../project/Captura_de_tela_20260525_233748.png)
+<img width="697" height="623" alt="Captura de tela 2026-05-25 233814" src="https://github.com/user-attachments/assets/4d0e389a-31ee-49c7-9375-997ef1c326df" />
+
 
 *Vista lateral: posicionamento dos motores grandes e rodas de tração.*
 
-![Vista frontal do Robô V1](../project/Captura_de_tela_20260525_233803.png)
+<img width="827" height="574" alt="Captura de tela 2026-05-25 233835" src="https://github.com/user-attachments/assets/7e331783-a3f3-43b6-bf75-91c60d32c2d7" />
+
 
 *Vista frontal: simetria dos dois motores médios e disposição interna.*
 
-![Vista superior do Robô V1](../project/Captura_de_tela_20260525_233814.png)
+<img width="1058" height="593" alt="Captura de tela 2026-05-25 233748" src="https://github.com/user-attachments/assets/6a1b7081-3020-46b6-8109-90aea8c28256" />
 
 *Vista superior: posicionamento do hub e estrutura geral do chassis.*
 
-![Vista traseira do Robô V1](../project/Captura_de_tela_20260525_233825.png)
+<img width="1264" height="679" alt="Captura de tela 2026-05-27 111740" src="https://github.com/user-attachments/assets/ce5eb1dd-8b3d-4c9e-a19f-80d6e28d0256" />
+
 
 *Vista traseira: configuração dos motores e suporte à estrutura.*
 
