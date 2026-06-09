@@ -74,6 +74,11 @@ O robô possui dimensões consideráveis para os padrões da FLL, o que é diret
 
 As rodas de 62,4 mm de diâmetro foram selecionadas deliberadamente pela equipe por dois motivos principais:
 
+## Imagem da roda usada:
+
+<img width="76" height="103" alt="Captura de tela 2026-05-24 213857" src="https://github.com/user-attachments/assets/62508d97-1ab6-4eb9-be95-7958f4765457" />
+
+
 - **Tração**: o perfil com grip profundo das rodas SPIKE Prime de grande porte proporciona maior aderência à superfície do tapete, reduzindo deslizamento durante acelerações e travagens.
 - **Eficiência de percurso**: o diâmetro acima da média significa que, a cada rotação completa do motor, o robô percorre uma distância linear maior em comparação com rodas menores. Isso reduz o número de rotações necessárias para alcançar um ponto distante na arena, contribuindo para maior eficiência energética e menor desgaste nas missões longas.
 
