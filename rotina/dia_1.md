@@ -1,390 +1,128 @@
-# DIÁRIO DE TREINO — GARÇA DE BOTAS
-## Temporada FLL | Registro Oficial de Sessão
+# Diário de Treino — Dia 1
+## Garça de Botas | SESI Ananindeua | Sessão de Abertura
 
 ---
 
-```
-EQUIPE          Garça de Botas
-INSTITUICAO     SESI Anandeua
-DATA            Dia 1 — Sessão de Abertura
-CLASSIFICACAO   Documento Interno de Desenvolvimento
-STATUS          REGISTRADO
-```
+**Equipe:** Garça de Botas  
+**Instituição:** SESI Ananindeua  
+**Classificação:** Documento Interno de Desenvolvimento
 
 ---
 
-# PARTE I — VISÃO GERAL DA SESSÃO
+## Visão Geral
 
-O Dia 1 não foi um treino técnico. Foi um **dia de fundação** — o momento em que a equipe teve o primeiro contato real com o universo competitivo da FIRST LEGO League. Cada detalhe observado, cada conversa tida, cada mecanismo visto representa uma semente que será cultivada ao longo da temporada.
-
-Este registro existe para que nada se perca. Em equipes de alto desempenho, o que não é documentado é como se não tivesse acontecido.
+O Dia 1 foi uma sessão de fundação — primeiro contato da equipe com o universo competitivo da FLL. Não houve construção física, mas foram estabelecidos os princípios que orientarão toda a temporada. Em equipes de alto desempenho, o que não é documentado é como se não tivesse acontecido.
 
 ---
 
-# PARTE II — CRONOLOGIA DO DIA
+## O Que Aconteceu
 
-## 2.1 Apresentação Institucional
+- Apresentação formal dos técnicos e integrantes
+- Introdução às regras e diretrizes da competição
+- Reconhecimento do espaço de trabalho e ferramentas disponíveis
+- Organização coletiva das caixas de peças
+- Observação de mecanismos e aprendizado com a equipe Born to Fight (Boeing 25 — SESI Ananindeua)
 
-A sessão iniciou com a apresentação formal dos **técnicos responsáveis** pela equipe. Esse momento, aparentemente protocolar, carrega um peso estratégico importante: é o instante em que se estabelece a relação de confiança e autoridade técnica que guiará todo o desenvolvimento da equipe ao longo da temporada.
-
-Os integrantes foram introduzidos uns aos outros e ao espaço de trabalho. A dinâmica inicial de socialização não deve ser subestimada — equipes que possuem boa comunicação interna resolvem problemas mecânicos e estratégicos com muito mais velocidade do que equipes tecnicamente superiores, mas fragmentadas.
-
----
-
-## 2.2 Introdução às Regras da FLL
-
-Um dos pilares do Dia 1 foi a apresentação das **regras e diretrizes** da competição. Em FLL, as regras não são apenas limitações — elas são o campo de jogo dentro do qual toda a inteligência estratégica precisa operar.
-
-Foram abordados os pontos fundamentais:
-
-```
-O QUE PODE                          O QUE NAO PODE
-─────────────────────────────────   ─────────────────────────────────
-Usar pecas LEGO oficiais            Modificar pecas
-Programar em ambiente oficial       Interferir fisicamente durante run
-Trocar anexos entre rounds          Ultrapassar limites da area de lancamento
-Colaborar com outras equipes        Alterar missoes apos inicio do match
-```
-
-> **Nota do Tecnico:** Equipes que dominam as regras profundamente encontram brechas estratégicas que equipes menos atentas nunca percebem. O manual de regras não é burocracia — é um mapa de oportunidades.
+A organização das caixas não foi uma tarefa administrativa. Foi o primeiro teste de disciplina coletiva da equipe.
 
 ---
 
-## 2.3 Contato com o Ambiente de Trabalho
+## Regras: O Que Pode e O Que Não Pode
 
-A equipe foi apresentada à **sala de treino** e a todo o ecossistema de trabalho: bancadas, caixas de peças, ferramentas disponíveis e o espaço destinado à mesa de missões.
+| Permitido | Proibido |
+|---|---|
+| Usar peças LEGO oficiais | Modificar peças |
+| Programar em ambiente oficial | Interferir fisicamente durante a run |
+| Trocar anexos entre rounds | Ultrapassar limites da área de lançamento |
+| Colaborar com outras equipes | Alterar missões após início do match |
 
-Saber onde cada coisa está não parece grande coisa — até o momento em que, com o cronômetro correndo e a competição se aproximando, um integrante perde dois minutos procurando um pino específico. Em FLL, tempo é pontuação.
-
----
-
-## 2.4 Organização das Caixas de LEGO
-
-A equipe realizou a **organização das caixas de peças** da sala de treino. Esta tarefa, que pode parecer operacional e menor, é na prática um dos primeiros atos de disciplina coletiva.
-
-Uma sala organizada comunica:
-
-- Respeito pelo tempo coletivo
-- Capacidade de manutenção de padrões
-- Mentalidade de processo — não de improviso
-
-> Equipes campeãs tratam o espaço físico de treino como um laboratório de engenharia. Tudo tem lugar. Tudo tem lógica. O caos físico é o primeiro sintoma do caos mental.
+Equipes que dominam as regras profundamente encontram brechas estratégicas que equipes menos atentas nunca percebem. O manual não é burocracia — é um mapa de oportunidades.
 
 ---
 
-## 2.5 Observação de Mecanismos — Equipe (Born to Fight)
+## Lições da Born to Fight
 
-O momento de maior densidade técnica do dia foi o contato com mecanismos desenvolvidos pela equipe **Boeing 25, conhecida como Born to Fight**, também do SESI Anandeua. Essa equipe representa um benchmark regional relevante e transmitiu princípios que devem orientar o design da Garça de Botas desde o início.
+A Born to Fight transmitiu três pilares de engenharia competitiva validados na prática.
 
----
+### Pilar 1 — Frame como Base Modular
 
-# PARTE III — LIÇÕES TÉCNICAS DA BORN TO FIGHT
+Um frame é uma estrutura base padronizada para encaixe de todos os anexos. Em vez de adaptar cada anexo ao robô na hora da competição, projeta-se o frame primeiro e todos os anexos são construídos para ele.
 
-## 3.1 Os Três Pilares Transmitidos
+Com frames padronizados, a troca de anexo leva menos de 90 segundos. Sem eles, pode consumir todo o tempo de preparação e ainda resultar em encaixe instável.
 
-A equipe Born to Fight condensou sua experiência em três diretrizes fundamentais. Elas não são opiniões — são **princípios de engenharia competitiva validados na prática**.
+### Pilar 2 — Robô Compacto
 
----
+Robôs grandes parecem oferecer mais opções. Na prática, oferecem mais problemas:
 
-### PILAR I — Uso de Frames como Base para Anexos
+- Maior momento de inércia — gira mais devagar e com menos precisão
+- Erro de trajetória proporcional ao comprimento do robô
+- Maior risco de colisão com elementos da mesa
 
-```
-CONCEITO: Frame como plataforma modular
+Robôs compactos são mais rápidos, mais precisos e mais fáceis de programar.
 
-       [FRAME PRINCIPAL]
-            |
-    ┌───────┼───────┐
-    |       |       |
-[ANEXO A] [ANEXO B] [ANEXO C]
-    |       |       |
-  Missao  Missao  Missao
-    1       2       3
-```
+### Pilar 3 — Centro de Massa Equilibrado
 
-Um **frame** é uma estrutura base padronizada que serve como ponto de encaixe para todos os anexos do robô. Em vez de construir cada anexo de forma independente e adaptá-lo ao robô na hora, a equipe projeta o frame primeiro — e todos os anexos são projetados para aquele frame.
+O hub deve estar o mais baixo e centralizado possível. Motores pesados ficam na base. Anexos pesados ficam próximos ao eixo central.
 
-**Por que isso importa em competição:**
+Centro de massa alto ou deslocado causa instabilidade em curvas, perda de tração e trajetória imprevisível. Centro de massa baixo e centralizado garante consistência em todas as execuções.
 
-Em um torneio, a equipe tem **2 minutos e 30 segundos** para cada run. Durante a preparação entre runs, é necessário trocar anexos, verificar o robô e posicioná-lo corretamente. Se cada anexo foi construído de forma improvisada, a troca é lenta, imprecisa e arriscada.
+### Filosofia: Fazer Mais com Menos
 
-Com frames padronizados, a troca de anexo leva menos de 90 segundos. Sem eles, pode levar o tempo todo de preparação — e ainda assim resultar em encaixe instável.
+Não significa simplicidade por preguiça. Significa eliminação do desnecessário:
 
----
+- Um anexo que resolve duas missões em vez de dois anexos para uma cada
+- Reaproveitamento inteligente de eixos e motores
+- Código com rotinas simples e reutilizáveis
 
-### PILAR II — Robô Compacto
-
-```
-COMPARATIVO DE FOOTPRINT
-
-Robô Grande:              Robô Compacto:
-┌──────────────┐          ┌──────┐
-│              │          │      │
-│   INSTAVEL   │          │  OK  │
-│   LENTO      │          │      │
-│   DIFICIL    │          └──────┘
-│   DE GIRAR   │
-└──────────────┘
-```
-
-Um robô compacto apresenta vantagens mecânicas diretas:
-
-- **Menor momento de inercia:** gira mais rápido e com mais precisão
-- **Menor variação de trajetória:** o erro de desvio angular é proporcional ao comprimento do robô
-- **Menor risco de colisão** com elementos da mesa
-- **Centro de massa mais controlável** e mais próximo ao eixo de tração
-
-Equipes que constroem robôs grandes frequentemente o fazem por insegurança — mais espaço parece mais opções. Na prática, mais espaço é mais problema.
+Equipes campeãs parecem simples à primeira vista. Essa simplicidade é resultado de horas de refinamento.
 
 ---
 
-### PILAR III — Centro de Massa Equilibrado
+## Análise Crítica
 
-O **centro de massa** é o ponto em torno do qual o peso do robô se distribui. Em robótica competitiva, ele determina:
+**Positivo:** A equipe absorveu princípios sólidos antes de construir qualquer coisa. Muitas equipes constroem primeiro e aprendem depois — e pagam caro em retrabalho.
 
-```
-CENTRO DE MASSA ALTO ou DESLOCADO:
-  → Robô tomba em curvas
-  → Rodas traseiras perdem tração
-  → Trajetória imprecisa
-
-CENTRO DE MASSA BAIXO e CENTRALIZADO:
-  → Robô estável em todas as superficies
-  → Tração consistente
-  → Trajetória previsivel e repetivel
-```
-
-A regra prática: o **hub (brick central)** deve estar o mais baixo e centralizado possível. Motores pesados devem ficar na base, nunca no topo. Anexos pesados devem ficar próximos ao eixo central do robô.
+**Risco principal:** Ouvir os princípios, concordar mentalmente e construir de forma errada mesmo assim. Os princípios da Born to Fight precisam virar decisões de projeto concretas, não inspiração vaga.
 
 ---
 
-## 3.2 A Metodologia do "Fazer Mais com Menos"
+## Plano para o Dia 2
 
-Além dos três pilares, a Born to Fight apresentou uma filosofia de design que permeia todas as decisões de engenharia de equipes de elite:
+**Objetivo:** Construir o robô padrão.
 
-> **"Fazer mais com menos."**
+Esse robô não é um exercício. É o primeiro artefato técnico real da equipe.
 
-Isso não significa fazer robôs ruins ou simplicidade por preguiça. Significa:
+Diretrizes obrigatórias:
 
-```
-NAO FAZER:                          FAZER:
-─────────────────────────────────   ─────────────────────────────────
-Anexo separado para cada missao     Um anexo que resolve duas missoes
-Motor dedicado para funcao pequena  Reaproveitamento inteligente de eixos
-Estrutura grande e rigida           Frame leve e modular
-Codigo extenso com muitas funcoes   Rotinas simples e reutilizaveis
-```
+- Definir largura e comprimento máximos antes de começar — medir e depois construir, não o contrário
+- Posicionar motores de tração o mais baixo possível
+- Identificar os pontos de encaixe de futuros anexos já no frame
+- Fotografar o robô ao final e registrar as três principais decisões de design
 
-Equipes campeãs internacionais — como times da Coreia do Sul, Japão e Estados Unidos que dominam torneios mundiais — constroem robôs que parecem simples à primeira vista. Essa simplicidade aparente é, na verdade, o resultado de **horas de refinamento e eliminação do desnecessário**.
+Perguntas que devem ser respondidas ao final do Dia 2:
 
----
+1. Qual é a largura e o comprimento final do robô?
+2. Onde está o centro de massa?
+3. Onde serão os pontos de encaixe dos anexos?
+4. O robô gira livremente na mesa?
+5. A estrutura é rígida o suficiente para não deformar durante as runs?
 
-# PARTE IV — ANÁLISE CRÍTICA DO DIA
-
-## 4.1 O Que Foi Positivo
-
-**Contato com referência regional concreta**
-A Born to Fight não é uma equipe abstrata ou um vídeo do YouTube. É uma equipe que treina no mesmo ecossistema, enfrenta as mesmas condições e já demonstrou resultados. Isso tem valor de referência altíssimo.
-
-**Absorção de princípios antes da construção**
-Muitas equipes constroem primeiro e aprendem depois — e pagam um preço caro em retrabalho. A Garça de Botas teve acesso a princípios sólidos antes de colocar a primeira peça. Isso é uma vantagem real, se os princípios forem aplicados.
-
-**Organização do espaço**
-A organização das caixas não foi uma tarefa administrativa. Foi o primeiro teste de disciplina coletiva da equipe. Resultado: positivo.
-
-**Socialização e divisão de tarefas**
-A definição de papéis iniciais é o ponto de partida para construção de uma equipe funcional. O importante agora é que essa divisão seja testada e ajustada ao longo dos treinos.
-
----
-
-## 4.2 O Que Precisa de Atenção
-
-**Risco: ouvir e não aplicar**
-O maior perigo do Dia 1 não é o que não foi aprendido. É o risco de ter ouvido os princípios, concordado mentalmente, e construir de forma errada no próximo treino mesmo assim. Isso acontece com a maioria das equipes. Os princípios da Born to Fight precisam se transformar em **decisões de projeto concretas**, não em inspiração vaga.
-
-**Risco: robô padrão tratado como rascunho descartável**
-O plano para o próximo treino é construir um robô padrão. Esse robô não pode ser tratado como exercício sem consequência. Cada decisão de design deve ser justificada, documentada e avaliada com os princípios aprendidos hoje.
-
-**Divisão de tarefas ainda não testada**
-Definir papéis é fácil. O teste real é quando há pressão de tempo, conflito de decisão e peças faltando. A divisão atual é um rascunho — ela só se tornará real quando for exercitada.
-
----
-
-# PARTE V — REFERÊNCIAS COMPETITIVAS
-
-## 5.1 Padrão de Equipes de Elite
-
-Para que a Garça de Botas entenda onde quer chegar, é necessário conhecer o padrão do que existe no topo da competição:
-
-```
-NIVEL          CARACTERISTICAS DO ROBO
-───────────    ──────────────────────────────────────────────────────
-Iniciante      Grande, pesado, sem frame, anexos improvisados
-Intermediario  Frame basico, alguns anexos padronizados
-Avancado       Frame modular completo, troca de anexo < 2 min
-Elite          Frame otimizado, troca < 90s, centro de massa calculado
-```
-
-Equipes de elite não são melhores porque têm peças melhores. São melhores porque **pensam melhor** sobre cada peça que usam.
-
----
-
-## 5.2 O Que Equipes Campeãs Fazem no Dia 1
-
-Equipes campeãs internacionais de FLL tratam o primeiro dia de temporada como dia de **definição de cultura de trabalho**. Elas estabelecem:
-
-- Padrão de documentação desde a primeira sessão
-- Critérios de avaliação de design que serão usados durante toda a temporada
-- Responsabilidades individuais claras
-- Compromisso com consistência acima de performance pontual
-
-A Garça de Botas fez isso hoje. O passo seguinte é **manter esse padrão**.
-
----
-
-# PARTE VI — PLANO PARA O DIA 2
-
-## Objetivo Principal
-
-```
-CONSTRUIR O ROBO PADRAO
-```
-
-Isso não é um exercício. É o **primeiro artefato técnico real** da equipe e deve ser tratado como tal.
-
----
-
-## Diretrizes de Construção para o Dia 2
-
-A seguir, as diretrizes que devem orientar cada decisão de construção, baseadas nos princípios aprendidos hoje:
-
-**Sobre o frame:**
-Definir a largura máxima e o comprimento máximo antes de começar. Não construir e depois medir — medir e depois construir.
-
-**Sobre os motores:**
-Posicionar os motores de tração o mais baixo possível. Verificar se o centro de massa resultante está centralizado entre os eixos das rodas.
-
-**Sobre os anexos:**
-Já no robô padrão, identificar onde estarão os pontos de encaixe de anexos futuros. Mesmo que o robô padrão não tenha anexos funcionais, o frame deve já prever onde eles vão.
-
-**Sobre a documentação:**
-Fotografar o robô ao final do treino. Anotar as dimensões principais. Registrar o raciocínio por trás das três maiores decisões de design do dia.
-
----
-
-## Perguntas que Devem Ser Respondidas ao Final do Dia 2
-
-```
-1. Qual e a largura e o comprimento final do robo?
-2. Onde esta posicionado o centro de massa?
-3. Onde serao os pontos de encaixe dos anexos?
-4. O robo e compacto o suficiente para girar livremente na mesa?
-5. A estrutura e rigida o suficiente para nao deformar durante as runs?
-```
-
-Se ao final do Dia 2 a equipe não conseguir responder essas cinco perguntas com precisão, o robô precisa ser revisado antes de avançar.
-
----
-
-# PARTE VII — CONCEITO TÉCNICO EXPANDIDO
-
-## O Que É e Por Que Existe o Conceito de Frame
-
-Em engenharia mecânica, um **frame** é qualquer estrutura que serve como base rígida para suportar outros componentes. Em veículos, é o chassi. Em aeronaves, é a fuselagem. Em robôs FLL, é a estrutura que mantém tudo no lugar enquanto o robô se move pela mesa.
-
-A lógica é simples: se a base se deforma, tudo que está acima dela também se deforma — e de forma imprevisível.
-
-Um frame bem construído em FLL apresenta as seguintes características:
-
-```
-CARACTERISTICA          MOTIVO
-──────────────────────  ────────────────────────────────────────────
-Rigidez estrutural      Evita deformacao durante movimento e colisao
-Pontos de encaixe       Permite modularidade dos anexos
-Simetria bilateral      Facilita programacao e previsibilidade
-Baixo perfil vertical   Mantem centro de massa proximo ao solo
-Peso distribuido        Garante tração igual nas duas rodas motrizes
-```
-
-Quando um frame é projetado sem esses critérios, o que se tem é uma **coleção de peças**, não um robô de competição.
-
----
-
-## O Que É Centro de Massa e Como Calculá-lo na Prática
-
-O centro de massa de um robô é o ponto onde toda a massa do robô pode ser considerada concentrada para fins de análise de movimento.
-
-**Teste prático em FLL:**
-
-Coloque o robô sobre um dedo em diferentes pontos da base. O ponto onde ele equilibra sem tombar é aproximadamente o centro de massa projetado no plano horizontal.
-
-O ideal é que esse ponto esteja:
-
-```
-POSICAO IDEAL DO CENTRO DE MASSA
-
-Vista lateral:
-   [Baixo]  — proximo ao solo, nao no topo
-   
-Vista superior:
-   [Centro] — entre os dois eixos de tração, ligeiramente para frente
-```
-
-Se o centro de massa estiver muito para trás, as rodas dianteiras perdem contato com a mesa em acelerações. Se estiver muito para cima, o robô oscila em curvas rápidas e perde precisão de trajetória.
-
----
-
-# PARTE VIII — REGISTRO DE EQUIPE
-
-## Integrantes Ativos — Dia 1
-
-```
-PAPEL                   STATUS NO DIA 1
-──────────────────────  ─────────────────────────────
-Lider tecnico           Presente e participativo
-Construtor principal    Presente e participativo
-Programador             Presente e participativo
-Responsavel inovacao    Presente e participativo
-Documentador            Presente — este registro e evidencia disso
-```
+Se a equipe não conseguir responder essas cinco perguntas com precisão, o robô precisa ser revisado antes de avançar.
 
 ---
 
 ## Estado da Equipe ao Final do Dia 1
 
-```
-AREA                    NIVEL ATUAL        PROXIMO NIVEL
-──────────────────────  ─────────────────  ─────────────────────────
-Conhecimento de regras  Introducao basica  Aprofundamento pratico
-Design de robo          Zero fisico        Robo padrao no Dia 2
-Programacao             Zero pratico       Primeiros testes no Dia 2
-Estrategia de missoes   Zero               Analise do mapa em breve
-Projeto de inovacao     Nao iniciado       A definir
-Documentacao            INICIADA hoje      Manter padrao sistematico
-```
+| Área | Nível Atual |
+|---|---|
+| Conhecimento de regras | Introdução básica |
+| Design de robô | Zero físico — robô padrão no Dia 2 |
+| Programação | Zero prático — primeiros testes no Dia 2 |
+| Estratégia de missões | Não iniciada |
+| Projeto de inovação | Não iniciado |
+| Documentação | Iniciada — manter padrão sistemático |
 
 ---
 
-# ENCERRAMENTO DO REGISTRO — DIA 1
-
-```
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-
-  O dia de hoje nao sera lembrado pelo que a equipe construiu.
-  Sera lembrado pelo que a equipe decidiu se tornar.
-
-  Os principios estao definidos.
-  O espaco esta organizado.
-  A equipe esta formada.
-
-  O que acontece a partir do Dia 2 e consequencia de tudo isso.
-
-━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-```
-
----
-<img width="720" height="1280" alt="WhatsApp Image 2026-06-02 at 20 59 44" src="https://github.com/user-attachments/assets/d5a6ba4e-76d0-44c0-8b92-45d8592d766e" />
-
-
-*Registro elaborado com base na sessão do Dia 1.*
-*Tecnico Responsavel — Programa Garça de Botas / SESI Anandeua*
+*Técnico Responsável — Programa Garça de Botas / SESI Ananindeua*  
 *Documento de uso interno — Temporada FLL em curso*
