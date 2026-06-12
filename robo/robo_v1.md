@@ -1,151 +1,173 @@
-# Garça de Botas — Documentação Técnica do Robô V1
+# DIÁRIO DE TREINO — GARÇA DE BOTAS
+## Dia 1 — Resumo Oficial
 
-**Equipe:** Garça de Botas  
-**Categoria:** FIRST LEGO League (FLL)  
-**Plataforma:** SPIKE Prime  
-**Versão:** 1.0  
-
----
-
-## Visão Geral
-
-O Robô V1 é a primeira iteração física da equipe Garça de Botas para a temporada atual da FLL. O projeto foi desenvolvido com base em referências de equipes competitivas de alto nível, priorizando estabilidade estrutural, tração e um chassis compacto o suficiente para acomodar o hub centralizado. O design foi influenciado por arquiteturas comuns em equipes como a **LEGO Legends** e equipes sul-americanas de alto desempenho que adotam chassis de perfil baixo com motores de tração duplos centralizados — configuração que oferece simetria mecânica e facilidade de programação de movimentos retos.
+```
+EQUIPE        Garça de Botas
+INSTITUICAO   SESI Ananindeua
+STATUS        Documento interno — Temporada FLL em curso
+```
 
 ---
 
-## Especificações Técnicas
+## O QUE FOI O DIA 1
 
-| Parâmetro | Valor |
-|---|---|
-| Rodas (diâmetro) | 62,4 mm |
-| Espessura total estimada | 146,2 mm |
-| Motores de tração | 2x Motor Grande SPIKE Prime |
-| Motores auxiliares | 2x Motor Médio SPIKE Prime |
-| Sensores de cor | 2 unidades |
-| Hub | SPIKE Prime Hub (centralizado) |
-| Tipo de tração | Diferencial com rodas de grande diâmetro |
-
----
-## Imagens do Projeto em desenvolvimento:
-
-<img width="1919" height="822" alt="Captura de tela 2026-05-24 200531" src="https://github.com/user-attachments/assets/bfd7ad50-6d77-43a2-9260-c51b2f0a09ed" />
-
-
-
-## Possbilidade de estrutura daquele momento: 
-
-<img width="933" height="563" alt="Captura de tela 2026-05-21 231622" src="https://github.com/user-attachments/assets/7b928325-1d07-4bf6-8279-8eef0e66ca05" />
-
-## Imagens do Projeto CAD finalizado:
-
-<img width="697" height="623" alt="Captura de tela 2026-05-25 233814" src="https://github.com/user-attachments/assets/4d0e389a-31ee-49c7-9375-997ef1c326df" />
-
-*Vista lateral: posicionamento dos motores grandes e rodas de tração.*
-
-<img width="827" height="574" alt="Captura de tela 2026-05-25 233835" src="https://github.com/user-attachments/assets/7e331783-a3f3-43b6-bf75-91c60d32c2d7" />
-
-
-*Vista frontal: simetria dos dois motores médios e disposição interna.*
-
-<img width="1058" height="593" alt="Captura de tela 2026-05-25 233748" src="https://github.com/user-attachments/assets/6a1b7081-3020-46b6-8109-90aea8c28256" />
-
-*Vista superior: posicionamento do hub e estrutura geral do chassis.*
-
-<img width="1264" height="679" alt="Captura de tela 2026-05-27 111740" src="https://github.com/user-attachments/assets/ce5eb1dd-8b3d-4c9e-a19f-80d6e28d0256" />
-
-
-*Vista traseira: configuração dos motores e suporte à estrutura.*
+O Dia 1 não foi treino técnico. Foi o dia de fundação da equipe.
+Primeiro contato com as regras, o espaço de trabalho e uma equipe de referência regional.
+O que não é documentado é como se não tivesse acontecido.
 
 ---
 
-## Estrutura e Chassis
+## O QUE ACONTECEU
 
-O chassis do V1 foi construído com base em vigas Technic de perfil duplo, formando um quadro rígido que serve de plataforma para o hub SPIKE Prime. O hub está posicionado centralmente na parte superior do robô, fixado sobre uma camada de vigas que distribui o peso de forma relativamente equilibrada entre os dois eixos de tração.
+**Apresentação dos técnicos e da equipe**
+Integrantes se conheceram e foram apresentados ao espaço de trabalho.
+Comunicação interna boa resolve problemas mais rápido do que habilidade técnica sozinha.
 
-A estrutura base apresenta camadas horizontais bem definidas: a camada inferior concentra os eixos de tração e os motores grandes, enquanto a camada intermediária sustenta os motores médios e os conectores de saída para os anexos. O hub ocupa a camada superior, com acesso facilitado às portas de conexão.
+**Introdução às regras da FLL**
+As regras não são só limitações — são o campo onde a estratégia opera.
+Quem domina as regras encontra oportunidades que os outros não enxergam.
 
-O robô possui dimensões consideráveis para os padrões da FLL, o que é diretamente consequência das escolhas de rodas e da quantidade de motores instalados.
+```
+PODE                                NAO PODE
+Usar pecas LEGO oficiais            Modificar pecas
+Programar no ambiente oficial       Interferir durante a run
+Trocar anexos entre rounds          Ultrapassar a area de lancamento
+Colaborar com outras equipes        Alterar missoes apos inicio do match
+```
 
----
+**Organização do espaço**
+A equipe organizou as caixas de peças da sala.
+Parece simples, mas é o primeiro teste de disciplina coletiva.
+Espaço desorganizado é sintoma de processo desorganizado.
 
-## Sistema de Tração
-
-### Rodas
-
-As rodas de 62,4 mm de diâmetro foram selecionadas deliberadamente pela equipe por dois motivos principais:
-
-## Imagem da roda usada:
-
-<img width="350" height="300" alt="Captura de tela 2026-05-24 213857" src="https://github.com/user-attachments/assets/62508d97-1ab6-4eb9-be95-7958f4765457" />
-
-
-- **Tração**: o perfil com grip profundo das rodas SPIKE Prime de grande porte proporciona maior aderência à superfície do tapete, reduzindo deslizamento durante acelerações e travagens.
-- **Eficiência de percurso**: o diâmetro acima da média significa que, a cada rotação completa do motor, o robô percorre uma distância linear maior em comparação com rodas menores. Isso reduz o número de rotações necessárias para alcançar um ponto distante na arena, contribuindo para maior eficiência energética e menor desgaste nas missões longas.
-
-### Motores
-
-O sistema de tração emprega **dois motores grandes** acoplados diretamente às rodas traseiras principais, responsáveis pela propulsão e pelo controle diferencial de direção. Os **dois motores médios** operam como saídas auxiliares, destinados ao acionamento de mecanismos de anexo.
-
-Essa configuração de 4 motores é adotada por equipes que buscam independência total entre tração e mecanismos, eliminando a necessidade de redistribuir motores de tração para operar anexos.
+**Contato com a equipe Born to Fight**
+Equipe do mesmo SESI Ananindeua. Referência regional concreta.
+Transmitiram três princípios de engenharia competitiva.
 
 ---
 
-## Sensoriamento
+## OS TRÊS PRINCÍPIOS DA BORN TO FIGHT
 
-O projeto utiliza **dois sensores de cor**, embora tecnicamente apenas um fosse o mínimo necessário para execução das missões.
+### 1. Frame como base modular
 
-A decisão de instalar dois sensores foi estratégica: com dois sensores de cor posicionados simetricamente na parte frontal do robô, a equipe pode implementar a técnica de **alinhamento por linha**. Nessa técnica, o robô não segue a linha continuamente, mas a utiliza como referência pontual — quando ambos os sensores detectam a linha ao mesmo tempo, ou em sequência controlada, o robô corrige seu ângulo e se alinha com precisão antes de executar uma missão.
+O frame é a estrutura central do robô. Todos os anexos são projetados para encaixar nele.
 
-Isso reduz o efeito cumulativo de pequenos erros de navegação entre missões consecutivas, aumentando a consistência das execuções.
+```
+[FRAME PRINCIPAL]
+      |
+[ANEXO A] [ANEXO B] [ANEXO C]
+```
 
----
+Sem frame padronizado, trocar anexo entre rounds consome tempo demais.
+Com frame, a troca leva menos de 90 segundos.
 
-## Inspiração em Equipes Competitivas
+### 2. Robô compacto
 
-A arquitetura do V1 apresenta semelhanças visuais e estruturais com abordagens utilizadas por equipes como:
+Robô menor gira mais rápido, erra menos a trajetória e colide menos com a mesa.
+Robôs grandes são construídos por insegurança. Na prática, são mais problema.
 
-- **Equipes da América do Sul com histórico em torneios regionais** que adotam chassis de duas camadas com hub centralizado e motores de tração laterais simétricos.
-- **Equipes que utilizam a configuração "tank drive" pura** — dois motores grandes em drive direto, sem redução por engrenagem — priorizando simplicidade mecânica e previsibilidade na programação.
-- A estrutura de vigas duplas horizontais e o posicionamento do hub elevado lembram designs documentados em equipes da Ásia e Europa que competem nas categorias abertas da FLL, onde a eficiência de montagem e desmontagem de anexos é crítica.
+```
+Robo grande   → instavel, lento, dificil de girar
+Robo compacto → preciso, rapido, controlavel
+```
 
----
+### 3. Centro de massa baixo e centralizado
 
-## Limitações Identificadas
+O centro de massa determina estabilidade e precisão de trajetória.
 
-### Tamanho e ocupação de espaço na arena
+```
+Centro alto ou deslocado → robô tomba, perde tração, erra trajetória
+Centro baixo e central   → robô estavel, tração consistente, trajetória repetivel
+```
 
-O maior problema identificado no V1 é o seu **tamanho físico**. O robô ocupa uma área considerável do campo de lançamento e restringe a margem de manobra para posicionamento inicial. Em consequência direta:
-
-- Anexos de maior porte tornam-se inviáveis, pois o robô já ocupa boa parte do espaço disponível.
-- O raio de giro é maior, o que pode dificultar missões que exigem curvas apertadas próximas a obstáculos.
-
-### Design de anexos prejudicado pela geometria traseira e lateral
-
-A parte traseira e as laterais do V1 apresentam **geometria irregular**, com motores médios salientes, conectores expostos e vigas em posições assimétricas. Isso dificulta significativamente o desenvolvimento de anexos padronizados, pois não há uma superfície plana ou estrutura de encaixe regular para servir de referência.
-
-Na prática, cada anexo precisou ser desenvolvido de forma específica para aquela posição, aumentando o tempo de design e reduzindo a intercambialidade entre mecanismos.
-
----
-
-## Pontos Positivos
-
-- Rigidez estrutural razoável para um primeiro projeto.
-- Configuração de 4 motores bem segmentada entre tração e mecanismos.
-- Escolha de rodas tecnicamente justificada em tração e eficiência.
-- Uso estratégico de duplo sensor de cor para alinhamento.
-- Hub centralizado facilita o equilíbrio de peso.
+Regra prática: o hub fica o mais baixo e centralizado possível.
+Motores e peças pesadas ficam na base, nunca no topo.
 
 ---
 
-## Considerações para Próximas Versões
+## A FILOSOFIA: FAZER MAIS COM MENOS
 
-Com base nas limitações identificadas, o V2 deve priorizar:
+Equipes de elite constroem robôs que parecem simples.
+Essa simplicidade é resultado de horas eliminando o que não precisa estar lá.
 
-- Redução do tamanho geral do chassis sem comprometer a rigidez.
-- Padronização das interfaces de anexo (superfícies regulares e pontos de encaixe definidos).
-- Avaliação do posicionamento dos motores médios para não comprometer a geometria lateral.
-- Manutenção ou melhoria do sistema de duplo sensor de cor para alinhamento por linha.
+```
+NAO FAZER                           FAZER
+Anexo separado para cada missao     Um anexo que resolve duas missoes
+Motor dedicado para funcao pequena  Reaproveitamento inteligente de eixos
+Estrutura grande e rigida           Frame leve e modular
+Codigo extenso                      Rotinas simples e reutilizaveis
+```
 
 ---
 
-*Documentação gerada pela equipe Garça de Botas — temporada FLL atual.*
+## NIVEIS DE EQUIPE
+
+```
+Iniciante      Grande, pesado, sem frame, anexos improvisados
+Intermediario  Frame basico, alguns anexos padronizados
+Avancado       Frame modular completo, troca de anexo em menos de 2 min
+Elite          Frame otimizado, troca menor que 90s, centro de massa calculado
+```
+
+---
+
+## O QUE PRECISA DE ATENÇÃO
+
+**Risco principal: ouvir e não aplicar**
+O maior perigo é ter concordado com os princípios hoje e construir errado no Dia 2.
+Os princípios precisam virar decisões de projeto concretas, não inspiração vaga.
+
+**Robô padrão não é rascunho**
+O Dia 2 começa a construção do robô padrão.
+Cada decisão de design precisa ser justificada e documentada.
+
+**Divisão de tarefas ainda não foi testada**
+Definir papéis é fácil. O teste real acontece sob pressão de tempo.
+
+---
+
+## ESTADO DA EQUIPE
+
+```
+AREA                    AGORA              PROXIMO PASSO
+Conhecimento de regras  Introducao basica  Aprofundamento pratico
+Design de robo          Zero fisico        Robo padrao no Dia 2
+Programacao             Zero pratico       Primeiros testes no Dia 2
+Estrategia de missoes   Zero               Analise do mapa em breve
+Documentacao            Iniciada hoje      Manter padrao sistematico
+```
+
+---
+
+## PLANO PARA O DIA 2
+
+Objetivo: construir o robô padrão.
+
+**Antes de colocar a primeira peça:**
+- Definir largura e comprimento máximo
+- Decidir onde ficam os pontos de encaixe dos anexos
+- Posicionar motores o mais baixo possível
+
+**Ao final do Dia 2, responder:**
+```
+1. Qual e a largura e o comprimento final do robo?
+2. Onde esta o centro de massa?
+3. Onde serao os pontos de encaixe dos anexos?
+4. O robo gira livremente na mesa?
+5. A estrutura e rigida o suficiente para nao deformar?
+```
+Se alguma dessas perguntas não tiver resposta precisa, o robô precisa ser revisado.
+
+---
+
+## ENCERRAMENTO
+
+O Dia 1 não será lembrado pelo que foi construído.
+Será lembrado pelo que a equipe decidiu se tornar.
+
+Os princípios estão definidos. O espaço está organizado. A equipe está formada.
+O que acontece a partir do Dia 2 é consequência direta disso.
+
+---
+*Tecnico Responsavel — Programa Garça de Botas / SESI Ananindeua*
+*Documento de uso interno — Temporada FLL em curso*
