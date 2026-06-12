@@ -21,7 +21,7 @@ O Dia 1 foi uma sessão de fundação — primeiro contato da equipe com o unive
 - Introdução às regras e diretrizes da competição
 - Reconhecimento do espaço de trabalho e ferramentas disponíveis
 - Organização coletiva das caixas de peças
-- Observação de mecanismos e aprendizado com a equipe Born to Fight (Boeing 25 — SESI Ananindeua)
+- Observação de mecanismos e aprendizado com a equipe Born to Fight (25/26 — SESI Ananindeua)
 
 A organização das caixas não foi uma tarefa administrativa. Foi o primeiro teste de disciplina coletiva da equipe.
 
