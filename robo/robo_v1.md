@@ -76,7 +76,7 @@ As rodas de 62,4 mm de diâmetro foram selecionadas deliberadamente pela equipe 
 
 ## Imagem da roda usada:
 
-<img width="76" height="103" alt="Captura de tela 2026-05-24 213857" src="https://github.com/user-attachments/assets/62508d97-1ab6-4eb9-be95-7958f4765457" />
+<img width="200" height="350" alt="Captura de tela 2026-05-24 213857" src="https://github.com/user-attachments/assets/62508d97-1ab6-4eb9-be95-7958f4765457" />
 
 
 - **Tração**: o perfil com grip profundo das rodas SPIKE Prime de grande porte proporciona maior aderência à superfície do tapete, reduzindo deslizamento durante acelerações e travagens.
